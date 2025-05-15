@@ -1,6 +1,6 @@
-﻿path,name
-./models/model02.glb,緑釉陶器（椀）
-./models/model03.glb,須恵器（高坏）
-./models/model04.glb,土師器（皿）
-./models/model06.glb,須恵器など
-https://echizencity.github.io/opendata/kokufuhakkutsu2/00101_kokufuhakkutsu2_small.glb,遺構2024
+﻿path,name,description,url
+./models/model02.glb,緑釉陶器（椀）,溝の埋土から出土した緑釉陶器の底部。底には糸切り痕が残っている。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model03.glb,須恵器（高坏）,須恵器の高坏の脚部。通常とは異なり、生焼けのような仕上がりになっている。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model04.glb,土師器（皿）,土坑埋土から出土した土師器。皿の一部と思われる。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+./models/model06.glb,須恵器など,ピットの中には、須恵器の坏身や甕の一部が重なるようにして埋まっていた。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
+https://echizencity.github.io/opendata/kokufuhakkutsu2/00101_kokufuhakkutsu2_small.glb,遺構2024,令和5年度（2023年度）に本興寺境内（国府1丁目地係）で実施した越前国府跡発掘調査では、平安時代の遺構が検出されました。令和6年度の調査ではその東隣を調査し、5年度に検出された区画溝の続きが見つかりました。溝は調査区よりさらに東へ続いていくため、溝の範囲確定には至りませんでした。,https://www.city.echizen.lg.jp/office/090/030/kokufu.html
