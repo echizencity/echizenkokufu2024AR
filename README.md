@@ -7,7 +7,7 @@
 | **craftARt Go** | スマートフォン向け | [go.html](https://echizencity.github.io/echizenkokufu2024AR/go.html) |
 | **craftARt Event** | スマートフォン向け（イベント用） | [event.html](https://echizencity.github.io/echizenkokufu2024AR/event.html) |
 | **craftARt Lite** | ARヘッドセット対応（Webベース） | [index.html](https://echizencity.github.io/echizenkokufu2024AR/) |
-## AR導入キット：craftARt-kit（クラフタート・キット）
+## AR導入キット：craftARt-kit
 越前国府発掘プロジェクト ARサービスから生まれた、地域や団体で手軽にAR展示が始められる導入キットです。
 GitHubリポジトリはこちら：  
 [https://github.com/echizencity/craftARt-kit](https://github.com/echizencity/craftARt-kit)
