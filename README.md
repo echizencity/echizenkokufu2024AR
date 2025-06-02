@@ -1,13 +1,17 @@
-# 越前国府発掘プロジェクト2024 ARサービス
-2024年度の越前国府発掘プロジェクトの成果を、AR（拡張現実）で体験できます。  
-本サービスは [Code for Fukui](https://code4fukui.github.io/) の協力により開発されました。
-## 公開中のARアプリケーション
-| アプリ名 | 対応デバイス | リンク |
-|----------|--------------|--------|
-| **craftARt Go** | スマートフォン向け | [go.html](https://echizencity.github.io/echizenkokufu2024AR/go.html) |
-| **craftARt Event** | スマートフォン向け（イベント用） | [event.html](https://echizencity.github.io/echizenkokufu2024AR/event.html) |
-| **craftARt Lite** | ARヘッドセット対応（Webベース） | [index.html](https://echizencity.github.io/echizenkokufu2024AR/) |
-## AR導入キット：craftARt-kit
-越前国府発掘プロジェクト ARサービスから生まれた、地域や団体で手軽にAR展示が始められる導入キットです。
-GitHubリポジトリはこちら：  
-[https://github.com/echizencity/craftARt-kit](https://github.com/echizencity/craftARt-kit)
+
+# 越前国府発掘プロジェクト2024 by craftARt
+
+- [craftARtを使った2024年度越前国府発掘プロジェクトの成果](https://echizencity.github.io/echizenkokufu2024AR)  
+
+## craftARt とは？
+
+“craftARt” は、
+
+- **craft**（手仕事・手作り）
+- **AR**（拡張現実）
+- **art**（芸術・美術）
+
+の3つを組み合わせた造語です。  
+地域の文化財やものづくりを、AR技術で新しい形に再発信することを目指すWebアプリです。  
+
+本アプリは[craftARt-kit](https://github.com/echizencity/craftARt-kit)を使って作成しました。
